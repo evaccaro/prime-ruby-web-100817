@@ -1,11 +1,3 @@
-# Add  code here!
-# def prime?(num)
-#   num_array = []
-#   (1..Math.sqrt(num)).each do |n|
-#     num_array.push(n)
-#   end
-# end
-
 def prime?(num)
   num_array = []
   starter = 0
